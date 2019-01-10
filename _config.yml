@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+title: [The title of your site]
+description: [A short description of your site's purpose]
+
